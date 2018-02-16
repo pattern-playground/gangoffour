@@ -1,0 +1,15 @@
+# Java
+**/build/
+.gradle/
+.idea/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+**/.idea/
+
+# Misc
+*.log
+*.log*
+**/out
