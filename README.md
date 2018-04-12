@@ -1,2 +1,2 @@
 # gangoffour
-Design Patterns Implemented in Simple Examples in Java
+Design Patterns Implemented with Simple Examples in Java
