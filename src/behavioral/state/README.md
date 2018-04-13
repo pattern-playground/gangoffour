@@ -4,7 +4,7 @@ Source: https://dzone.com/articles/state-pattern
 
 The State pattern allows an object to alter its behavior when its internal state changes
 
-![alt text](https://github.com/pattern-playground/gangoffour/blob/master/images/state_pattern.PNG?raw=true)
+![alt text](https://github.com/pattern-playground/gangoffour/blob/master/images/state_pattern.png?raw=true)
 
 **When Would I Use This Pattern?**
 

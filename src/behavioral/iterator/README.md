@@ -8,6 +8,8 @@ The definition of Iterator as provided in the original Gang of Four book on Desi
 
 _Provides a way to access the elements of an aggregate object without exposing its underlying representation._
 
+![alt text](https://github.com/pattern-playground/gangoffour/blob/master/images/iterator_pattern.png?raw=true)
+
 **When Would I Use This Pattern?**
 
 This pattern is useful when you need access to elements in a set without access to the entire representation. 

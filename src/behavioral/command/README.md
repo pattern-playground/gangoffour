@@ -18,6 +18,8 @@ The Client creates ConcreteCommands and sets a Receiver for the command. The Con
 
 When the Invoker calls execute the ConcreteCommand will run one or more actions on the Receiver.
 
+![alt text](https://github.com/pattern-playground/gangoffour/blob/master/images/command_pattern.png?raw=true)
+
 **When Would I Use This Pattern?**
 
 The Command Pattern is useful when:

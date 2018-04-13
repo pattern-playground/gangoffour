@@ -6,6 +6,8 @@ The Mediator defines the interface for communication between Colleague objects. 
 
 Without this pattern, all of the Colleagues would know about each other, leading to high coupling. By having all colleagues communicate through one central point we have a decoupled system while maintaining control on the object's interactions.
 
+![alt text](https://github.com/pattern-playground/gangoffour/blob/master/images/mediator_pattern.png?raw=true)
+
 **When Would I Use This Pattern?**
 
 The mediator is a good choice of pattern when the communication between objects is complicated, but well defined. When there are too many relationships between the objects in your code, it's time to think of having such a central point of control.

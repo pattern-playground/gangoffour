@@ -8,6 +8,8 @@ The definition of Interpreter as provided in the original Gang of Four book on D
 
 _Given a language, define a representation for its grammar along with an interpreter that uses the representation to interpret sentences in the language._
 
+![alt text](https://github.com/pattern-playground/gangoffour/blob/master/images/interpretor_pattern.png?raw=true)
+
 **When Would I Use This Pattern?**
 
 The Interpreter pattern should be used when you have a simple grammar that can be represented as an Abstract Syntax Tree. This is the more obvious use of the pattern.

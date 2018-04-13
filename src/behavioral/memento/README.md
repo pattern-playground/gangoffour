@@ -8,6 +8,8 @@ The Memento captures and externalizes an object’s internal state so that the o
 
 Without violating encapsulation, capture and externalize an object’s internal state so the the object can be restored to this state later.
 
+![alt text](https://github.com/pattern-playground/gangoffour/blob/master/images/memento_pattern.png?raw=true)
+
 **When Would I Use This Pattern?**
 
 A snapshot of an object’s state must be saved so that it can be restored to that state later

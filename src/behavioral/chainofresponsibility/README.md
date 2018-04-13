@@ -10,6 +10,8 @@ _Gives more than one object an opportunity to handle a request by linking receiv
 
 Chain of Responsibility allows a number of classes to attempt to handle a request, independently of any other object along the chain. Once the request is handled, it completes it's journey through the chain.
 
+![alt text](https://github.com/pattern-playground/gangoffour/blob/master/images/chain_of_resp_pattern.png?raw=true)
+
 **When Would I Use This Pattern?**
 
 This pattern is recommended when either of the following scenarios occur in your application:

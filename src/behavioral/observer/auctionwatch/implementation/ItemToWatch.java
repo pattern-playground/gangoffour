@@ -6,6 +6,7 @@ import java.util.Observable;
 public class ItemToWatch extends Observable {
 
     private String itemData;
+
     public String getItemData() {
         return itemData;
     }

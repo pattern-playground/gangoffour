@@ -2,7 +2,7 @@ Source: https://dzone.com/articles/design-patterns-uncovered
 
 **What is it?**
 
-Of all of the design patterns that are out there, the Observer is one that you've probably used already, even if you weren't aware of it. The Observer pattern is the gold standard in decoupling - the seperation of objects that depend on each other.
+Of all of the design patterns that are out there, the Observer is one that you've probably used already, even if you weren't aware of it. The Observer pattern is the gold standard in decoupling - the separation of objects that depend on each other.
 
 The Observer is known as a behavioural pattern, as it's used to form relationships between objects at runtime.  The definition provided in the original Gang of Four book on Design Patterns states: 
 
@@ -13,6 +13,8 @@ The idea behind the pattern is simple - one of more Observers are interested in 
 When the Observer is no longer interested in the Subject's state, they can simply detatch themselves. The following sequence diagram illustrates the registration and notification flow in action.
 
 The benefits here are quite clear. To pass data onto the observers, our subject doesn't need to know who needs to know. Instead, everything is done through a common interface, and the notify method just calls all the objects out there that have registered their interest. This is a very powerful decoupling - meaning that any object can simply implement the Observer interface and get updates from the Subject. 
+
+![alt text](https://github.com/pattern-playground/gangoffour/blob/master/images/observer_pattern.png?raw=true)
 
 **When Would I Use This Pattern?**
 

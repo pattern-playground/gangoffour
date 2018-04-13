@@ -8,6 +8,8 @@ The definition of Strategy provided in the original Gang of Four book on DesignP
 
 _Defines a set of encapsulated algorithms that can be swapped to carry out a specific behaviour_
 
+![alt text](https://github.com/pattern-playground/gangoffour/blob/master/images/strategy_pattern.png?raw=true)
+
 **When Would I Use This Pattern?**
 
 The Strategy pattern is to be used where you want to choose the algorithm to use at runtime. 
