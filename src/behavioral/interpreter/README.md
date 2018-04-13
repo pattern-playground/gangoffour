@@ -8,7 +8,7 @@ The definition of Interpreter as provided in the original Gang of Four book on D
 
 _Given a language, define a representation for its grammar along with an interpreter that uses the representation to interpret sentences in the language._
 
-![alt text](https://github.com/pattern-playground/gangoffour/blob/master/images/interpretor_pattern.png?raw=true)
+![alt text](https://github.com/pattern-playground/gangoffour/blob/master/images/interpreter_pattern.png?raw=true)
 
 **When Would I Use This Pattern?**
 
